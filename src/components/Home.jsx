@@ -110,8 +110,7 @@ export default function Home() {
             marginBottom: 24,
             lineHeight: 1.2
           }}>
-            Software Develope
-            r and Data Analyst.
+            Software Developer and Data Analyst.
           </h2>
           
           <p style={{
