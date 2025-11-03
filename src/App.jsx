@@ -19,7 +19,7 @@ function App() {
       <footer className="footer">
         <div className="container">
           <p>Ankit Pandey @Jain University</p>
-          <p>Email: ankitpandeyiit2004@email.com &nbsp; | &nbsp; Phone: +91-8851700115</p>
+          <p>Email: ankitpandeyiit2004@email.com &nbsp; | &nbsp; Phone No: +91-8851700115</p>
           <p>
             LinkedIn: <a href="https://linkedin.com/in/ankitpandeyb2" target="_blank" rel="noopener noreferrer">linkedin.com/in/ankitpandeyb2</a>
             &nbsp; | &nbsp;
